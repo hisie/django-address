@@ -2,6 +2,10 @@
 
 ## Disclaimer
 
+Fork from eyesnz/django-address to add support to force language and, later,
+Correcte the issue with the couble entity creation when using many languages
+in the project
+
 These instructions are a little shabby, I haven't had a whole lot of time to
 devote to explaining things thoroughly. If you're interested in using this
 but are having trouble getting it setup please feel free to email me at
